@@ -1,5 +1,6 @@
-### Hi there 👋
-
+Hello
+🌱 I’m currently learning photoshop CC
+💬 Ask me about linkedin:sefa bayram
 <!--
 **SefaB1818/SefaB1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
